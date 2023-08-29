@@ -1,4 +1,4 @@
-This is a [Plasmo 
+This is a simple Google Chrome extension that displays the current city and country. Here is a short demo of the extension.
 
 https://github.com/Gaurav29502/geo-tracker/assets/65184110/1521ca25-704c-4153-b609-5bd58a4309db
 
