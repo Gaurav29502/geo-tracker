@@ -5,7 +5,7 @@ import Lottie from 'react-lottie';
 import './popup.css';
 import countryCodeToName from './countryCodes';
 import animationData from './lottiefiles/opening.json'
-import OpeningAnimation from './OpeningAnimation';
+import OpeningAnimation from './animation/OpeningAnimation';
 require('dotenv').config()
 
 const IndexPopup = () => {
